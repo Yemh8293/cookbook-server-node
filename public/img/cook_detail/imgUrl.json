@@ -1,0 +1,192 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "classid": 8,
+      "name": "黑穗醋栗仙女蛋糕卷",
+      "class": "烘焙",
+      "taste": "酸甜味",
+      "cookingtime": "<90分钟",
+      "energy": "较高热量",
+      "peoplenum": "3人份",
+      "content": "最近入了一个很神奇的宝贝，它叫黑穗醋栗，百度了一下，不仅有丰富的维生素，还能够增强孩子的免疫力，重点是颜值超高哦。黑穗醋...",
+      "pic": "../assets/img/cook_detail/pic_00.jpg",
+      "tag": "润肺止咳,健脑益智,保肝,动脉硬化,防癌,延年益寿,美容护肤,美容养颜,益智",
+      "material": [
+        {
+          "mname": "低筋面粉",
+          "type": 0,
+          "amount": "65g"
+        },
+        {
+          "mname": "细砂糖",
+          "type": 0,
+          "amount": "50g"
+        },
+        {
+          "mname": "黑穗醋栗粉（蛋糕卷用）",
+          "type": 0,
+          "amount": "8g"
+        },
+        {
+          "mname": "鸡蛋",
+          "type": 1,
+          "amount": "5个"
+        },
+        {
+          "mname": "色拉油",
+          "type": 1,
+          "amount": "40g"
+        },
+        {
+          "mname": "牛奶",
+          "type": 1,
+          "amount": "45g"
+        },
+        {
+          "mname": "淡奶油",
+          "type": 1,
+          "amount": "250g"
+        },
+        {
+          "mname": "糖粉",
+          "type": 1,
+          "amount": "30g"
+        }
+      ],
+      "process": [
+        {
+          "ptitle": "步骤1",
+          "pcontent": "提前准备好所需原料",
+          "pic": "../assets/img/cook_detail/pic_01.jpg"
+        },
+        {
+          "ptitle": "步骤2",
+          "pcontent": "混合牛奶和色拉油，搅拌均匀",
+          "pic": "../assets/img/cook_detail/pic_02.jpg"
+        },
+        {
+          "ptitle": "步骤3",
+          "pcontent": "加入蛋黄",
+          "pic": "../assets/img/cook_detail/pic_03.jpg"
+        },
+        {
+          "ptitle": "步骤4",
+          "pcontent": "彻底搅拌均匀",
+          "pic": "../assets/img/cook_detail/pic_04.jpg"
+        },
+        {
+          "ptitle": "步骤5",
+          "pcontent": "一次性倒入过筛的粉类（低粉+黑穗醋栗粉）",
+          "pic": "../assets/img/cook_detail/pic_05.jpg"
+        },
+        {
+          "ptitle": "步骤6",
+          "pcontent": "彻底搅拌均匀",
+          "pic": "../assets/img/cook_detail/pic_06.jpg"
+        },
+        {
+          "ptitle": "步骤7",
+          "pcontent": "蛋白分两次加入细砂糖",
+          "pic": "../assets/img/cook_detail/pic_07.jpg"
+        },
+        {
+          "ptitle": "步骤8",
+          "pcontent": "打至如图的软弯钩状",
+          "pic": "../assets/img/cook_detail/pic_08.jpg"
+        },
+        {
+          "ptitle": "步骤9",
+          "pcontent": "取三分之一的蛋白霜与之前的蛋黄糊切拌均匀",
+          "pic": "../assets/img/cook_detail/pic_09.jpg"
+        },
+        {
+          "ptitle": "步骤10",
+          "pcontent": "然后再倒入剩余的蛋白霜中",
+          "pic": "../assets/img/cook_detail/pic_10.jpg"
+        },
+        {
+          "ptitle": "步骤11",
+          "pcontent": "彻底切拌均匀",
+          "pic": "../assets/img/cook_detail/pic_11.jpg"
+        },
+        {
+          "ptitle": "步骤12",
+          "pcontent": "倒入铺有油纸的烤盘当中（我用的是学厨28*28的方盘）",
+          "pic": "../assets/img/cook_detail/pic_12.jpg"
+        },
+        {
+          "ptitle": "步骤13",
+          "pcontent": "将烤盘送入预热好的烤箱，175度烘焙18分钟",
+          "pic": "../assets/img/cook_detail/pic_13.jpg"
+        },
+        {
+          "ptitle": "步骤14",
+          "pcontent": "烤好的蛋糕胚立刻取出，撕去油纸降温",
+          "pic": "../assets/img/cook_detail/pic_14.jpg"
+        },
+        {
+          "ptitle": "步骤15",
+          "pcontent": "将淡奶油+糖粉+黑穗醋栗粉称重准备好",
+          "pic": "../assets/img/cook_detail/pic_15.jpg"
+        },
+        {
+          "ptitle": "步骤16",
+          "pcontent": "打至如图的裱花状态",
+          "pic": "../assets/img/cook_detail/pic_16.jpg"
+        },
+        {
+          "ptitle": "步骤17",
+          "pcontent": "蛋糕片切出一点斜坡状后，抹上打发的淡奶油（如图)",
+          "pic": "../assets/img/cook_detail/pic_17.jpg"
+        },
+        {
+          "ptitle": "步骤18",
+          "pcontent": "然后卷起，送入冰箱冷藏定型2小时",
+          "pic": "../assets/img/cook_detail/pic_18.jpg"
+        },
+        {
+          "ptitle": "步骤19",
+          "pcontent": "重复步骤15，再次打发淡奶油，然后装入裱花袋中",
+          "pic": "../assets/img/cook_detail/pic_19.jpg"
+        },
+        {
+          "ptitle": "步骤20",
+          "pcontent": "在蛋糕卷顶部挤出花纹，放上黑穗醋栗和食用金箔装饰，即可切片食用",
+          "pic": "../assets/img/cook_detail/pic_20.jpg"
+        },
+        {
+          "ptitle": "步骤21",
+          "pcontent": "",
+          "pic": "../assets/img/cook_detail/pic21.jpg"
+        },
+        {
+          "ptitle": "黑穗醋栗仙女蛋糕卷成品图",
+          "pcontent": "",
+          "pic": "../assets/img/cook_detail/pic_22.jpg"
+        },
+        {
+          "finishedimg":[
+            {
+              "id": 1,
+              "pic": "../assets/img/cook_detail/pic_00.jpg"
+            },
+            {
+              "id": 2,
+              "pic": "../assets/img/cook_detail/pic_20.jpg"
+            },
+            {
+              "id": 3,
+              "pic": "../assets/img/cook_detail/pic_21.jpg"
+            },
+            {
+              "id": 3,
+              "pic": "../assets/img/cook_detail/pic_22.jpg"
+            }
+          ]
+        }
+      ],
+      "skill": "制作蛋糕卷的蛋白不能打的非常硬，一般我会打至7-8分硬的样子，也就是步骤图中提起打蛋器，有软弯钩形成的状态即可，这样的蛋白有助于保持蛋糕片的柔韧性，方便卷起。假如不小心打的有点过，可以在抹奶油之前，轻轻的用刀在蛋糕坯上划一些划痕，但是千万不要划断哦，这样也能顺利的卷起"
+    }
+  ]
+}
